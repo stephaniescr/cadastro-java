@@ -1,4 +1,4 @@
-# MinhaAplicacao
+# Cadastro de Usuários em Java
 
 App para cadastro de usuário em Java.
 
